@@ -30,7 +30,7 @@
       <file leaf-file-name="application_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="32" selection-start="0" selection-end="169" vertical-scroll-proportion="0.10033445">
+            <state line="7" column="41" selection-start="184" selection-end="184" vertical-scroll-proportion="0.117056854">
               <folding />
             </state>
           </provider>
@@ -658,7 +658,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="25" width="941" height="1045" extended-state="0" />
+    <frame x="0" y="25" width="941" height="1045" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295583" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -812,7 +812,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="32" selection-start="0" selection-end="169" vertical-scroll-proportion="0.10033445">
+        <state line="7" column="41" selection-start="184" selection-end="184" vertical-scroll-proportion="0.117056854">
           <folding />
         </state>
       </provider>
