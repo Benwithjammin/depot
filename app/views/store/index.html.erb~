@@ -19,11 +19,12 @@
         <div class="price_line">
 
           <span class="price"><%= number_to_currency(product.price, :unit => "£") %></span>
-
+<<<<<<< HEAD
           <%= button_to 'Add to Cart', line_items_path(:product_id => product) %>
 
- <!-- Conventions "_path" on end of controller name, and button_to is a POST -->
-
+=======
+          <%= button_to 'Add to Cart', line_items_path(:product_id => product) %>    <!-- Conventions "_path" on end of controller name, and button_to is a POST -->
+>>>>>>> 375d2f19062b551a9c7893b5edd91ab5105b2f63
         </div>
 
     </div>
