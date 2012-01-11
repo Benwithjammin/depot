@@ -20,7 +20,7 @@
 
           <span class="price"><%= number_to_currency(product.price, :unit => "£") %></span>
 
-          <%= button_to 'Add to Cart', line_items_path(:product_id => product) %>  <!-- Conventions "_path" on end of controller name, and button_to is a POST -->
+          <%= button_to 'Add to Cart', line_items_path(:product_id => product), :remote => true  %>  <!-- Conventions "_path" on end of controller name, and button_to is a POST -->
 
         </div>
 
