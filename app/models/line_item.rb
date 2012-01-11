@@ -9,4 +9,15 @@ class LineItem < ActiveRecord::Base
 
   end
 
+  def decrement_quantity
+
+    self.quantity -= 1
+    self.save
+
+    if (self.quantity == 0)
+      self.destroy
+    end
+
+  end
+
 end
